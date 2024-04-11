@@ -1,0 +1,5 @@
+# Files to be ignored
+
+
+# Folders to be ignored
+__pycache__/
